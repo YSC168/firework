@@ -2095,7 +2095,7 @@ const Spark = {
 
 
 const soundManager = {
-	baseURL: 'https://pandecheng.coding.me/firework-simulator-v2/sound/',
+	baseURL: 'https://cdn.jsdelivr.net/gh/ysc168/firework@1.01/',
 	ctx: new (window.AudioContext || window.webkitAudioContext),
 	sources: {
 		lift: {
